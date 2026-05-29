@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow>=2.15.0
+gensim
+snowballstemmer
+google-cloud-bigquery
+pyLDAvis
