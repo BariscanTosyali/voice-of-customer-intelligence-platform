@@ -10,3 +10,8 @@ Sistem, ham müşteri metinlerini otomatik olarak temizler, derin öğrenme mode
 - **Hibrit NLP Modelleme:** Sınıflandırma için **Derin Öğrenme (Keras Embedding & Sequential)** ve konu keşfi için **Gözetimsiz Öğrenme (Gensim LDA)** kombinasyonu.
 - **Gelişmiş Türkçe Metin Ön İşleme:** Kelime kökü analizi (Snowball Stemmer), stop-words temizliği ve gürültü azaltma filtreleri.
 - **İş Odaklı Kök Neden Analizi (Root-Cause):** Hangi şikayetin, hangi kanalda, hangi segmentte ve hangi kök nedenden kaynaklandığını çözen Isı Haritalı Pivot Analiz.
+
+<img width="1378" height="1034" alt="image" src="https://github.com/user-attachments/assets/744d29f5-fa59-4dcf-9540-820586b5fe0f" />
+
+
+<img width="1379" height="957" alt="image" src="https://github.com/user-attachments/assets/b0160962-3d21-4f89-8887-6843b510e015" />
